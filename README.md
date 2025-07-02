@@ -5,6 +5,7 @@ This repository implements **C3QG**, a transformer-based question generation sys
 
 Developed by [Phung Thao Vi](mailto:phungvi08123@gmail.com), [Satyam Mishra](mailto:satyam.entrprnr@gmail.com), [Vishwanath Bijalwan](mailto:vishwanath.bijalwan@gmail.com), and [Duc Tan Tran](mailto:tan.tranduc@phenikaa-uni.edu.vn).
 
+Live demo app: https://huggingface.co/spaces/PhunvVi/C3QG.app
 ---
 
 ## 🚀 Features
